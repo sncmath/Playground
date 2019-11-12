@@ -1,0 +1,38 @@
+﻿b{padding-right: 5px}
+	.body{
+		background-color:lightgrey;
+		color:grey;
+	}
+	.box{
+
+		display:grid; 
+		grid-template-columns:1fr;
+		grid-gap:10px;
+		border-radius:30px;
+		background-color: white;
+		padding: 7% 35% ;
+		margin: 10px;
+		font-family:calibri;
+	}
+	.left{float:left;
+		width:auto;
+		border: 1px solid lightgrey;
+		border-radius: 5px;
+		}
+	.right{
+		float:right;
+		color:grey;
+		}
+	.red{color:red}
+	.login{
+		color:white;
+		background-color:#00ccdd;
+		border: 1px solid;
+		border-radius: 20px;
+		width:20%;
+		padding:2%;
+		font-size:8px;
+	}
+	.pad{
+		padding-top:50px;
+	}
