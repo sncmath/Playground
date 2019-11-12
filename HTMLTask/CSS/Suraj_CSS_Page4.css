@@ -1,0 +1,35 @@
+﻿	body{
+		font-family:calibri;
+		background-color:lightgrey;
+		}
+	pre{
+		font-family:calibri;
+	}
+	.box{
+		display:grid;
+		grid-template-columns:1fr;
+		grid-gap:10px;
+		border-radius:30px;
+		background-color:white;
+		padding: 8% 36% 13% 36%;
+		margin:10px;
+
+	}
+	.pad{padding-top:10%;}
+	.strech{
+		width:auto;
+		border: 1px solid lightgrey;
+		border-radius: 5px;
+		}
+	.red{
+		color:red;
+		font-family:calibri}
+	.continue{
+		color:white;
+		background-color:#00ccdd;
+		border: 1px solid;
+		border-radius: 20px;
+		width:22%;
+		padding:2%;
+		font-size:12px;
+	}
