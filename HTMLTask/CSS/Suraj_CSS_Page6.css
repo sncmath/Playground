@@ -1,0 +1,16 @@
+﻿	a{
+		font-family:arial;
+		font-weight:bold;
+		color:grey;
+		text-decoration: none;
+	}
+	.box{
+		display:grid;
+		grid-template-columns:1fr;
+		border:;
+		width:8%;
+		margin: auto;
+		padding:2% 2%;
+		background-color:white;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
