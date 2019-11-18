@@ -1,0 +1,119 @@
+﻿body{
+    font-family: Calibri;
+    margin: 0;
+    background-color: lightgrey;
+    color: grey;
+  }
+  pre{
+  	font-family:Calibri;
+  	float:right;
+  }
+  .top{
+  margin: 0%;
+  padding:0;
+  width:100vw;
+  background-color:white;
+  color:grey;
+  overflow: hidden;
+}
+.down{
+  padding-top: 1.5%;
+  padding-right: 1.5%;
+	float:right;
+}
+.JohnDoe{
+	float:right;
+  padding-top: 1%;
+}
+.menu{
+	float:left;
+  padding: 1.5% 0 0 1.5%;
+  font-size: 1.3em;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 11fr;
+  padding: 30px;
+}
+.item1{
+  display: grid;
+  grid-template-rows: 2fr 3fr;
+  background-color: white;
+  padding: 0%;
+}
+.reqz{
+  transform: rotateZ(180deg);
+  writing-mode: vertical-rl;
+  font-weight: bold;
+  color: black;
+  font-size: 1.2em;
+  padding: 60% 35%;
+}
+.nav{
+  margin:40% 0 0 40%;
+}
+.item2{
+  background-color: #f9f9f9;
+  padding: 3%;
+}
+.bold{
+  font-weight: bold;
+  color: black;
+  margin: 4% 0%;
+}
+.textarea{
+  border-radius: 3px;
+  color: grey;
+  margin: 3% 0%;
+}
+.pdg{
+  margin: 2% 0%;
+  border-radius: 30%;
+}
+.draft{
+  font-weight: bold;
+  text-decoration: underline;
+  color: grey;
+  float: left;
+  font-size: 1.1em;
+}
+.next{
+  float: right;
+  background-color: #0cd;
+  border: 1px;
+  border-radius: 30px;
+  color: white;
+  padding: 0.5vw 2vw;
+  text-align:
+}
+.dod{
+  padding-top: 2%
+}
+.mid{
+  padding-bottom: 12%;
+}
+.round{
+  width:24%;
+  height:6%;
+  background-color:#0cd;
+  border-radius:50%;
+  color:#fff;
+  text-align: center;
+  padding: 5%;
+  border:1px solid lightgrey;
+}
+.round1{
+  width:24%;
+  height:5%;
+  border:1px solid lightgrey;
+  border-radius:50%;
+  text-align: center;
+  padding: 5%;
+}
+.line{
+  margin-left: 17%;
+  border: 1%;
+  border-left-style:dashed;
+  height: 7%;
+  border-color: lightgrey;
+}
