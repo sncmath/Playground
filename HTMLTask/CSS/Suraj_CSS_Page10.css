@@ -1,0 +1,68 @@
+﻿body{
+  background-color: grey;
+  color: grey;
+  font-family: calibri;
+}
+.grid{
+  grid-template-rows: 1fr 10fr 1fr;
+  margin:5% 25% 0% 25%;
+}
+.grid >div{
+  background-color: #fff;
+  padding: 3%;
+}
+.top{
+  border-top-left-radius: 3vw;
+  border-top-right-radius: 3vw;
+  overflow:auto;
+  font-size: 1.3em;
+}
+.add{
+  float: left;
+  padding: 2% 0 0 3%;
+}
+.icon{
+  float: right;
+  font-size:80%;
+  padding: 3% 3% 0 0;
+}
+.mid{
+  box-shadow: 0 5px 10px -5px grey inset,0 -5px 10px -5px inset, 0 0, 0 0;
+  overflow: hidden;
+  font-size: 1.3em;
+}
+.width{
+width: 30%;
+padding: 2% 8%;
+border: 1px solid lightgrey;
+border-radius: 3px;
+}
+.des{
+  padding: 4%;
+  width: 60%
+}
+.pd{
+  padding: 4%;
+}
+.dt{
+  font-size: 1.8em;
+}
+.bottom{
+  border-bottom-left-radius: 3vw;
+  border-bottom-right-radius: 3vw;
+  overflow: hidden;
+  font-size: 1.3em;
+}
+.cancel{
+  float: left;
+  text-decoration: underline;
+  padding: 2% 0 0 3%;
+}
+.done{
+  float: right;
+  background-color: #0cd;
+  border: 1px;
+  border-radius: 5vw;
+  color: white;
+  padding: 3% 6% 3% 6%;
+}
