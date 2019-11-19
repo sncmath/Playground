@@ -1,0 +1,153 @@
+﻿  body{
+    font-family: Calibri;
+    margin: 0;
+    background-color: lightgrey;
+    color: grey;
+  }
+  pre{
+  	font-family:Calibri;
+  	float:right;
+  }
+  .top{
+  margin: 0%;
+  padding:0;
+  width:100vw;
+  background-color:white;
+  color:grey;
+  overflow: hidden;
+}
+.down{
+  padding-top: 1.5%;
+  padding-right: 1.5%;
+	float:right;
+}
+.JohnDoe{
+	float:right;
+  padding-top: 1%;
+}
+.menu{
+	float:left;
+  padding: 1.5% 0 0 1.5%;
+  font-size: 1.3em;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 11fr;
+  padding: 30px;
+}
+.item1{
+  display: grid;
+  grid-template-rows: 0.5fr 3fr;
+  background-color: white;
+  padding: 0%;
+}
+.reqz{
+  transform: rotateZ(180deg);
+  writing-mode: vertical-rl;
+  font-weight: bold;
+  color: black;
+  font-size: 1.2em;
+  margin: 30% 35% 30% 35%;
+}
+.nav{
+  margin:40% 0 0 40%;
+}
+.round{
+  width:28%;;
+  background-color:#0cd;
+  border-radius:50%;
+  color:#fff;
+  text-align: center;
+  padding: 5%;
+  border:1px solid lightgrey;
+}
+.round1{
+  width:28%;
+  border:1px solid lightgrey;
+  border-radius:50%;
+  text-align: center;
+  padding: 5%;
+}
+.line{
+  margin-left: 17%;
+  border: 1%;
+  border-left-style:dashed;
+  height: 4%;
+  border-color: lightgrey;
+}
+.item2{
+  background-color: #f9f9f9;
+  padding: 3%;
+}
+.tab{
+  display: grid;
+  grid-template-columns: 4fr 1.5fr 1.5fr 1.5fr 1.5fr;
+  background-color: white;
+  margin:2%;
+  grid-row-gap: 3px;
+}
+.g1{
+  grid-column-start: 1;
+  grid-column-end:5 ;
+  background-color: #f0f0f0;
+  padding: 5%;
+}
+.tl{
+  background-color: #f0f0f0;
+  padding: 30% 30% 30% 0%;
+}
+.g2{
+  padding:10% 35% 10% 10%;
+}
+.g3{
+  text-align: left;
+  padding: 40% 0;
+}
+.g4{
+  text-align: left;
+  padding: 40% 0;
+}
+.g5{
+  text-align: left;
+  padding: 40% 0;
+}
+.g6{
+  padding: 30%;
+}
+.rem{
+  font-weight: bold;
+}
+.right{
+  float: right;
+  padding-right: 20px;
+}
+.resize{
+  width: 2vw;
+  float: right;
+}
+.bott{
+  padding-top:15%
+}
+.draft{
+  font-weight: bold;
+  text-decoration: underline;
+  color: grey;
+  float: left;
+  font-size: 1.1em;
+  padding: 0.5%;
+}
+.back{
+  float: right;
+  padding: 0.5% 3%;
+  font-size: 1.1em;
+  color: #0cd;
+}
+.next{
+  float: right;
+  background-color: #0cd;
+  border: 1px;
+  border-radius: 30px;
+  color: white;
+  padding: 0.5vw 2vw;
+  text-align:
+}
