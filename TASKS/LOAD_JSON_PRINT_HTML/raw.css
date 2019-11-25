@@ -1,0 +1,15 @@
+.row{
+display: table-row;
+border: 1px solid grey;
+border-collapse: collapse;
+width: 98%;
+}
+.row > div {
+  display: table-cell;
+  padding: 0 2% 0 0;
+  border: 1px solid grey;
+  text-align: left;
+}
+.edit{
+  font-weight: bold;
+}
