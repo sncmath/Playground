@@ -1,0 +1,22 @@
+body {
+    background-color: #00000067;
+    font-size: large;
+}
+
+table {
+    margin: 15% auto;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 25px #0000004D;
+    color: #747474;
+    border-radius: 5px;
+    padding: 4% 8% 4% 4%;
+}
+
+.forgot {
+    color: #595959;
+    font-weight: bold;
+}
+
+.line {
+    line-height: 0.9;
+}
