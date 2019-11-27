@@ -4,12 +4,18 @@ body {
 }
 
 table {
-    margin: 15% auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 35%;
+    padding: 3%;
     background-color: #FFFFFF;
     box-shadow: 0px 0px 25px #0000004D;
     color: #747474;
     border-radius: 5px;
-    padding: 4% 8% 4% 4%;
+
 }
 
 .forgot {
