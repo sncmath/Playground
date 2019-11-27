@@ -1,0 +1,62 @@
+body {
+    background-color: #F6F8F9;
+}
+
+.cont {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+    padding: 9% 34%;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px #00000029;
+    border-radius: 30px;
+    color: #505050;
+}
+
+.login {
+    font-weight: bold;
+    font-size: large;
+    color: #595959;
+}
+
+.textbox {
+    border: 1px solid #D3D3D3;
+    border-radius: 5px;
+    width: 96%;
+    padding: 1% 2%;
+}
+
+.space {
+    padding-top: 5%;
+}
+
+.c1 {
+    width: 50%;
+    float: left;
+}
+
+.c2 {
+    width: 50%;
+    float: right;
+}
+
+.forgot {
+    color: #707070;
+    float: right;
+}
+
+.button {
+    background-color: #32BDD2;
+    box-shadow: 1px 1px 5px #00000040;
+    border: 1px solid #32BDD2;
+    border-radius: 21px;
+    padding: 2% 7%;
+    color: white;
+}
+
+.bottom {
+    padding-top: 20%;
+}

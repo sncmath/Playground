@@ -5,63 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Page1</title>
-    <style>
-        body {
-            background: #F6F8F9 0% 0% no-repeat padding-box;
-        }
-
-        .cont {
-            background: #FFFFFF 0% 0% no-repeat padding-box;
-            box-shadow: 0px 0px 10px #00000029;
-            margin: 1.25rem;
-            width: 39%;
-            padding: 15% 29% 15% 29%;
-            font-size: large;
-            border-radius: 30px;
-            color: #505050;
-        }
-
-        .login {
-            font-weight: bold;
-            font-size: large;
-            color: #595959;
-        }
-
-        .textbox {
-            border: 1px solid #D3D3D3;
-            border-radius: 5px;
-            width: 96%;
-            padding: 1% 2%;
-        }
-
-        .red{
-            color: red;
-            padding-right: 2%;
-        }
-
-        .space {
-            padding-top: 5%;
-        }
-
-        .forgot {
-            color: #707070;
-            float: right;
-        }
-
-        .button {
-            background: #32BDD2 0% 0% no-repeat padding-box;
-            box-shadow: 1px 1px 5px #00000040;
-            border: 1px solid #32BDD2;
-            border-radius: 21px;
-            padding: 1% 4%;
-            color: white;
-        }
-
-        .bottom {
-            padding-top: 8%;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="../../CSS/Suraj_Page2-DIV.css">
+    <title>Page2-Div</title>
 </head>
 
 <body>
@@ -69,22 +14,23 @@
         <div>
             <p class="login"><u>LOGIN</u></p>
         </div>
-        <div>
+        <div class="space">
             <p>Email or Username</p>
             <p><input class="textbox" type="text" name="" id=""></p>
-            <p><span class="red">!</span><span class="red">This field is required</span></p>
-        </div>
-        <div>
-            <p>Password</p>
-            <input class="textbox" type="password" name="" id="">
-            <p><span class="red">!</span><span class="red">This field is required</span></p>
+            <p><span class="red"><img class="alert" src="../../IMAGES/request-icons-07.png" alt="!"></span><span class="red">This field is required</span></p>
         </div>
         <div class="space">
-            <span><input type="checkbox" name="" id="">Remember me<span>
-                    <a class="forgot" href="#">Forgot Password</a></span>
+            <p>Password</p>
+            <input class="textbox" type="password" name="" id="">
+            <p><span class="red"><img class="alert" src="../../IMAGES/request-icons-07.png" alt="!"></span><span class="red">This field is required</span></p>
+        </div>
+        <div class="space">
+            <div class="c1"><span><input type="checkbox" name="" id="">Remember me<span></span></div>
+            <div class="c2"><a class="forgot" href="#">Forgot Password</a></span></div>
         </div>
         <div class="bottom">
-            <input class="button" type="submit" value="LOGIN"></div>
+            <input class="button" type="submit" value="LOGIN">
+        </div>
     </div>
 </body>
 
