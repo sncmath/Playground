@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    background-color: #F6F8F9;
+}
+
+.top {
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 4px #00000029;
+    overflow: hidden;
+}
+
+.r1c1 {
+    float: left;
+    width: 85%;
+}
+
+.r1c2 {
+    float: right;
+    width: 5%;
+}
+
+.r1c3 {
+    float: right;
+    width: 5%;
+}
+
+.r1c4 {
+    float: right;
+    width: 5%;
+    padding-top: 1%;
+}
+
+.menu {
+    width: 4vw;
+}
+
+.down {
+    width: 2vw;
+}
+
+.name {
+    font-size: 1.2vw;
+}
+
+.johnimg {
+    width: 4vw;
+}
+
+.cont {
+    margin: 2%;
+    width: 96%;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+.r1 {
+    overflow: hidden;
+}
+
+.r2 {
+    overflow: hidden;
+}
+
+.r3 {
+    overflow: hidden;
+}
+
+.c1r1 {
+    width: 20%;
+    float: left;
+}
+
+.c2r1 {
+    width: 60%;
+    float: right;
+}
+
+.c3r1 {
+    width: 20%;
+    float: right;
+}
+
+.myreq {
+    font-family: Roboto;
+    color: #505050;
+    border-bottom: 2px solid #32BDD2;
+    width: fit-content;
+    font-size: 1.4vw;
+    margin: 10% 10% 0 20%;
+}
+
+.searchbox {
+    width: 96%;
+    border: 1px solid #B5B5B5;
+    border-radius: 39px;
+    padding: 2% 7%;
+}
+
+.newreq {
+    background-color: #32BDD2;
+    box-shadow: 1px 1px 3px #00000029;
+    border: 1px solid #32BDD2;
+    border-radius: 35px;
+    color: white;
+    padding: 5% 7%;
+}
+
+.c1r2 {
+    float: left;
+    width: 10%;
+}
+
+.c2r2 {
+    float: right;
+    width: 90%;
+}
+
+.filter {
+    width: 4vw;
+    margin-left: 40%;
+}
+
+.c1r3 {
+    width: 20%;
+    float: left;
+}
+
+.c2r3 {
+    width: 60%;
+    float: right;
+}
+
+.c3r3 {
+    width: 20%;
+    float: right;
+    vertical-align: middle;
+}
+.order{
+    padding: 0 20%;
+}
+.noti {
+    width: 4vw;
+    display: block;
+    margin: auto;
+}
+.showdown{
+    width: 1.3vw;
+}
+.bottom{
+    text-align: center;
+}
