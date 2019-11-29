@@ -78,6 +78,7 @@ body {
 .c3r1 {
     width: 20%;
     float: right;
+    text-align: center;
 }
 
 .myreq {
@@ -143,9 +144,24 @@ body {
     display: block;
     margin: auto;
 }
+.approved{
+    text-align: center;
+}
 .showdown{
     width: 1.3vw;
 }
 .bottom{
     text-align: center;
+}
+.r1{
+    padding: 2% 0;
+    border-bottom: 1px solid lightgrey;
+}
+.r2{
+    padding: 2% 0;
+    border-bottom: 1px solid lightgrey;
+}
+.r3{
+    padding: 2% 0;
+    border-bottom: 1px solid lightgrey;
 }
