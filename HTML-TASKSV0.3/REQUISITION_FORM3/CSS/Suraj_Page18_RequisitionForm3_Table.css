@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.menu{
+    width:85%;
+}
+.johnimg{
+    width:5%;
+}
+.johnname{
+    width:5%;
+}
+.dropdown{
+    width:5%;
+}
+.browse {
+    background-color: #32BDD2;
+    color: white;
+    border: 1px solid #32BDD2;
+    border-radius: 4px;
+    padding: 6px 17px;
+}
+
+.upload {
+    background-color: #32BDD2;
+    color: white;
+    border: 1px solid #32BDD2;
+    border-radius: 29px;
+    padding: 8px 18px;
+}
+
+.next {
+    background-color: #32BDD2;
+    color: white;
+    border: 1px solid #32BDD2;
+    border-radius: 29px;
+    padding: 8px 18px;
+}
