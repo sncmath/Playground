@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F6F8F9;
+    font-family: 'Roboto',sans-serif;
+}
+
+.container1{
+    width: 96%;
+    margin: 2%;
+    box-shadow: 0px 0px 10px #00000029;
+    border-radius: 15px;
+    background-color: #ffffff;
+    padding: 7% 28%;
+}
+
+.container2{
+    width: 100%;
+}
+
+.logintxt{
+    text-align: left;
+    letter-spacing: 1.6px;
+    color: #595959;
+    font-weight: bold;
+    border-bottom: 2px solid #595959;
+}
+.email{
+    letter-spacing: 0.6px;
+    color: #505050;
+    text-align: left;
+    margin-top: 7%;
+}
+
+.password{
+    text-align: left;
+    letter-spacing: 0.6px;
+    color: #505050;
+    margin-top: 7%;
+}
+.textbox{
+    width: 100%;
+    border: 1px solid #D3D3D3;
+    border-radius: 5px;
+    margin-top: 1.5%;
+    padding: 1% 0;
+}
+
+.rememberme{
+    text-align: left;
+    letter-spacing: 0;
+    color: #707070;
+}
+.forgotpassword{
+    text-align: right;
+    letter-spacing: 0;
+    color: #707070;
+    float: right;
+    border-bottom: 2px solid #707070;
+    margin-top: 4%;
+}
+.loginbutton{
+    background-color: #32bdd2;
+    box-shadow: 1px 1px 5px #00000040;
+    border-radius: 21px;
+    border: 0;
+    color: #ffffff;
+    padding: 14px 48px;
+    margin-top: 15%;
+}
+
+.container3{
+    width: 100%;
+    margin-top: 4%;
+}
