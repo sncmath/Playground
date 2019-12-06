@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Assignment-5</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        table {
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td {
+            border: 1px solid black;
+            text-align: center;
+            width: 33.33%;
+            height: 100px;
+        }
+
+        .line {
+            border-right: 1px dashed black;
+            width: 50%;
+            height: 100%;
+        }
+
+        .round {
+            border: 1px solid black;
+            padding: 0px 5px;
+            border-radius: 50%;
+            background-color: white;
+            position: absolute;
+            left: 16.66%;
+            top: 150px;
+            transform: translate(-50%,-50%);
+
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td>
+                <span>1</span>
+            </td>
+            <td>
+                <span>2</span>
+            </td>
+            <td>
+                <span>3</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="line"><span class="round">2</span></div>
+            </td>
+            <td>
+                <span>5</span>
+            </td>
+            <td>
+                <span>6</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span>7</span>
+            </td>
+            <td>
+                <span>8</span>
+            </td>
+            <td>
+                <span>9</span>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
