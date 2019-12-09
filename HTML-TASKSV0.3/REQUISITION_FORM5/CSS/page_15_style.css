@@ -15,6 +15,8 @@
     
     .back {
         background-color: #fff;
+        border: 1px solid #F0F0F0;
+        padding: 3%;
     }
     
     .menu {
@@ -71,6 +73,7 @@
         margin-left: 55%;
         border: 2px;
         border-left-style: dotted;
+        border-color: #F0F0F0;
         height: 100%;
     }
     
@@ -112,6 +115,54 @@
         letter-spacing: 2.8px;
     }
     
+    .color {
+        background-color: #F0F0F0;
+        border: 1px solid #F0F0F0;
+        padding: 1%;
+    }
+    
+    .item {
+        width: 70%;
+    }
+    
+    .add {
+        width: 10%;
+        text-align: left
+    }
+    
+    .img {
+        width: 11.5%;
+    }
+    
+    .item-1 {
+        width: 7%;
+        background-color: #F4F8FA;
+        text-align: center;
+    }
+    
+    .add-1 {
+        width: 25%;
+        text-align: left;
+        background-color: #F4F8FA;
+    }
+    
+    .img-1 {
+        width: 5%;
+        background-color: #F4F8FA;
+    }
+    
+    .data {
+        border: 2px solid#D5E2E8;
+        width: 55%;
+        padding: 2%;
+    }
+    
+    .luke {
+        font-size: 12px;
+        color: #747474;
+        padding-left: 1.5%;
+    }
+    
     .attachment {
         color: #505050;
         font-size: 14px;
@@ -121,36 +172,21 @@
     
     .lorem {
         font-size: 10px;
-        color: #505050;
+        color: #909090;
         padding-left: 1.5%;
     }
     
-    .select {
+    .files {
         background-color: #fff;
-        border: 1px solid #F0F0F0;
-        padding: 2% 15% 8% 2%;
-    }
-    
-    .computer {
-        color: #000;
-        letter-spacing: 0.5px;
-        font-size: 12px;
-        border: 1px solid #DFEBEF;
-        width: 50%;
-    }
-    
-    .documents {
-        color: #747474;
-        letter-spacing: 0.5px;
-        font-size: 12px;
+        padding: 1% 2% 01% 2%;
     }
     
     .sucesess {
         color: #fff;
         background-color: #32BDD2;
         border: 1px solid #32BDD2;
-        width: 20%;
-        padding: 1% 0% 1% 0%;
+        width: 100%;
+        padding: 3% 0% 3% 0%;
         border-radius: 20px;
         float: right;
         clear: right;
@@ -158,15 +194,22 @@
     }
     
     .draft {
-        width: 50%;
+        width: 87%;
+    }
+    
+    .back2 {
+        width: 8%;
+    }
+    
+    .down {
+        padding: 10% 0 2% 0;
     }
     
     .save {
-        margin: 20% 0 5% 0;
+        width: 10%;
     }
     
     .save-draft {
-        margin: 20% 0 5% 0;
         width: fit-content;
         padding: 5px;
         font-weight: 700;
@@ -180,4 +223,13 @@
     
     .padding {
         padding: 2%;
+    }
+    
+    .back1 {
+        color: #32BDD2;
+        font-size: 12px;
+        border-bottom: 2px solid #32BDD2;
+        padding-bottom: 0.5%;
+        font-weight: 700;
+        text-align: center;
     }
