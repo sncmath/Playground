@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto',
+    sans-serif;
+}
+
+div{
+    width: 100%;
+    overflow: hidden;
+}
+
+body{
+    background-color: #F6F8F9;
+}
+
+.loginbox{
+    padding-bottom: 2%;
+}
+
+.child{
+    background-color: #ffffff;
+    width: 98%;
+    margin: 1%;
+    padding: 8% 28%;
+    box-shadow: 0px 0px 10px #00000029;
+    border-radius: 15px;
+}
+
+.loginText{
+    letter-spacing: 1.6px;
+    color: #595959;
+    font-weight: bold;
+    border-bottom: 3px solid #595959;
+}
+
+.text{
+    letter-spacing: 0.6px;
+    color: #505050;
+    margin-top: 8%;
+}
+
+.textBox {
+    border: 1px solid #D3D3D3;
+    width: 100%;
+    margin-top: 3%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.column1{
+    width: 50%;
+    float: left;
+}
+
+.column2{
+    width: 50%;
+    float: right;
+}
+
+.row{
+    margin-top: 3%;
+}
+
+.check {
+    border: 1px solid #808495;
+    border-radius: 2px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.remember{
+    letter-spacing: 0;
+    color: #707070;
+    font-size: smaller;
+    vertical-align: top;
+}
+
+.forgot {
+    letter-spacing: 0;
+    color: #707070;
+    font-size: smaller;
+    text-decoration: none ;
+    border-bottom: 2px solid #707070;
+    padding-bottom: 4px;
+    float: right;
+}
+
+.loginButton {
+    letter-spacing: 0.6px;
+    color: #FFFFFF;
+    padding: 14px 48px;
+    box-shadow: 1px 1px 5px #00000040;
+    border-radius: 21px;
+    border: 0;
+    background-color: #32BDD2;
+    margin-top: 14%;
+}
