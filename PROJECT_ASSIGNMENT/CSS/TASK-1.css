@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.leftside{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    float: left;
+}
+
+.rightside{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    float: right;
+}
+
+.our{
+    color: #32bdd2;
+    font-family: 'Raleway',
+    sans-serif;
+    font-weight: bold;
+    border-top: 2px solid #32bdd2;
+}
+
+.approach{
+    color: #32bdd2;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.lnum{
+    font-size: 75px;
+    font-family: 'Anton', sans-serif;
+    opacity: 60%;
+    color: #32bdd2;
+}
+
+.snum{
+    font-size: 28px;
+    opacity: 60%;
+    font-family: 'Raleway', sans-serif;
+    color: #32bdd2;
+}
+
+.stratsoft{
+    color: #32bdd2;
+    font-family: 'Raleway',
+    sans-serif;
+    font-weight: bold;
+    font-size: 62px;
+}
+
+.future{
+    font-family: 'Raleway',
+    sans-serif;
+    font-size: 24px;
+    color: #212121;
+}
+
+.futuretext{
+    font-family: 'Raleway',
+    sans-serif;
+    font-size: 16px;
+    color: #212121;
+}
+
+.text{
+    color: #505050;
+    font-size: 12px;
+    font-family: 'Raleway',
+    sans-serif;
+    text-align: center;
+    background-color: #b8d5dd;
+    margin: 10% 20%;
+    padding: 5%;
+}
+
+.svgimg{
+    margin: auto;
+}
