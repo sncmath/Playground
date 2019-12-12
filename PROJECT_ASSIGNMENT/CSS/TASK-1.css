@@ -80,5 +80,43 @@
 }
 
 .svgimg{
+    display: block;
     margin: auto;
+}
+
+.dots{
+    fill: #E2EAEC;
+}
+
+.lines{
+    stroke: #EEEEEE;
+    stroke-width: 0.5;
+}
+
+.innertrap{
+    fill: #FFFFFF;
+    stroke: #EEEEEE;
+    stroke-width: 0.5;
+}
+
+.outertrap{
+    fill: #EAF2F4;
+    stroke: #EEEEEE;
+    stroke-width: 0.5;
+}
+
+.octagon{
+    fill: #EAF2F4;
+    stroke: #EEEEEE;
+    stroke-width: 0.5;
+}
+
+.svgtext{
+    font-family: 'Raleway',
+    sans-serif;
+    font-size: 0.7vh;
+}
+
+.trap1{
+    transform:rotate(90)translate(0);
 }
