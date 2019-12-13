@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.left{
+    width: 50%;
+    float: left;
+}
+
+.right{
+    width: 50%;
+    float: right;
+}
+
+.line{
+    display: block;
+    margin: auto;
+}
+
+
+.content1{
+    float: left;
+    text-align: left;
+}
+
+.content2{
+    float: right;
+    text-align: right;
+}
+
+.image1{
+    float: right;
+    
+}
+
+.image2{
+    float: left;
+}
+
+.image3{
+    float: right;
+}
+
+.content3{
+    float: left;
+    text-align: left;
+}
+
+.image4{
+    float: left;
+}
+
+.content4{
+    float: right;
+    text-align: right;
+}
