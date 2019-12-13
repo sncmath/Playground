@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1vw;
+}
+
+body{
+    background-color: #F6F8F9;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+
+}
+
+div{
+    overflow: hidden;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.topBar{
+    background-color: #ffffff;
+    padding: 10px 3%;
+}
+
+.flexcontainer{
+    display: flex;
+    align-items: stretch;
+}
+
+.col1 {
+    flex: 40 1 auto;
+    
+}
+
+.col2 {
+    flex: 10 1 auto;
+}
+
+.col3 {
+    flex: 10 1 auto;
+}
+
+.col4 {
+    flex: 10 1 auto;
+}
+
+.col5 {
+    flex: 10 1 auto;
+}
+
+.col6 {
+    flex: 10 1 auto;
+}
+
+.col7 {
+    flex: 10 1 auto;
+}
+
+.col8 {
+    flex: 10 1 auto;
+}
+
+.col9 {
+    flex: 5 1 auto;
+}
+
+.col10 {
+    flex: 5 1 auto;
+}
+
+.content{
+    margin: 2%;
+    width: 96%;
+    background-color: #ffffff;
+}
+
+.rowtop{
+    padding: 3% 3% 0 3%;
+    border-bottom: 1px solid #dddddd;
+}
+
+.wrap1 {
+    padding-bottom: 3%;
+}
+
+.checkout{
+    border-bottom: 3px solid #00ccdd;
+    padding-bottom: 4px;
+    font-size: 2vw;
+}
+
+.row1{
+    padding: 3%;
+    border-bottom: 1px solid #dddddd;
+    background-color: rgb(231, 245, 250);
+}
+
+.name{
+    color: black;
+    font-size: 1.5vw;
+}
+
+.holding{
+    color: black;
+    font-size: 1.7vw;
+    margin-top: 1.5%;
+}
+
+.row {
+    padding: 3%;
+    border-bottom: 1px solid #dddddd;
+}
+
+.left{
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+
+.book{
+    color: black;
+    font-size: 1.5vw;
+    font-weight: bold;
+    margin-bottom: 1%;
+}
+
+.right{
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+
+.rowbottom{
+    padding: 3%;
+}
+
+.back{
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    color: gray;
+    vertical-align: top;
+}
