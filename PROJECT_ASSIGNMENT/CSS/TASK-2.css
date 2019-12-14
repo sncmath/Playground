@@ -5,8 +5,26 @@
 }
 
 div{
-    border: 1px solid black;
     overflow: hidden;
+}
+
+.parent{
+    margin-left: 5%;
+    margin-right:5%;
+}
+
+.bluehead{
+    padding-top: 4px;
+}
+
+.our{
+    color: #0cd;
+    border-top: 2px solid #00ccdd;
+    padding-top: 2px;
+}
+
+.approach{
+    color: #0cd;
 }
 
 .left{
@@ -28,36 +46,96 @@ div{
 .content1{
     float: left;
     text-align: left;
+    width: 70%;
 }
 
 .content2{
-    float: right;
-    text-align: right;
+    float: left;
+    text-align: left;
+    width: 70%;
 }
 
 .image1{
     float: right;
-    
+    width: 30%;
 }
 
 .image2{
     float: left;
+    width: 30%;
 }
 
 .image3{
     float: right;
+    width: 30%;
 }
 
 .content3{
-    float: left;
-    text-align: left;
+    float: right;
+    text-align: right;
+    width: 70%;
 }
 
 .image4{
     float: left;
+    width: 30%;
 }
 
 .content4{
     float: right;
     text-align: right;
+    width: 70%;
+}
+
+.number{
+    color: #d3d3d3;
+}
+
+.heading1{
+    font-size: larger;
+    margin-top: 3%;
+}
+
+.heading2{
+    font-size: larger;
+    margin-bottom: 4%;
+}
+
+.text{
+    color: #505050;
+}
+
+.explore{
+    color: #00ccdd;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.exploreimage{
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.topleft{
+    width: 100%;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.topright{
+    width: 100%;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.bottomleft{
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bottomright{
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
 }
