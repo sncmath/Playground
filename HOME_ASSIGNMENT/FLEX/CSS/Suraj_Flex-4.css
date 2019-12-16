@@ -46,3 +46,118 @@ div{
 .col7 {
     flex: 1 1 auto;
 }
+
+.left{
+    width: 50%;
+    float: left;
+}
+
+.right{
+    width: 50%;
+    float: right;
+}
+
+.submit{
+    color: white;
+    background-color: #0cd;
+    padding: 5px 15px;
+    border: 0;
+    float: right;
+}
+
+.show{
+    float: right;
+}
+
+.drop{
+    float: left;
+    padding-left: 10px;
+}
+
+.arrow{
+    float: left;
+    width: 5%;
+    margin: auto;
+}
+
+.question{
+    float: left;
+    width: 90%;
+}
+
+.menu{
+    float: right;
+    width: 5%;
+}
+
+.add{
+    float: right;
+    padding-right: 15px;
+}
+
+.decor{
+    border-bottom: 2px solid #0cd;
+}
+
+.content{
+    width: 96%;
+    margin: 2%;
+    background-color: #ffffff;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.rowa{
+    padding: 5%;
+    border-bottom: 1px solid #d3d3d3;
+    font-size: larger;
+}
+
+.rowb{
+    padding: 3% 5%;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.rowc{
+    margin: 5%;
+    border: 2px dotted #d3d3d3;
+    padding: 4%;
+}
+
+.rowd{
+    margin: 5%;
+    background-color: #f8f8f8;
+    border:1px solid #d3d3d3;
+}
+
+.row1{
+    padding: 2%;
+    background-color: #d3d3d3;
+}
+
+.row2{
+    padding: 2%;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.rowe{
+    margin: 5%;
+    padding: 2%;
+    background-color: #d3d3d3;
+}
+
+.rowf{
+    margin: 5%;
+    padding: 2%;
+    background-color: #d3d3d3;
+}
+
+.rowg{
+    margin: 5%;
+}
+
+.underline{
+    border-bottom: 1px solid #111111;
+}
