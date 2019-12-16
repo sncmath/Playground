@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1vw;
+}
+
+body {
+    background-color: #F6F8F9;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+
+}
+
+div {
+    overflow: hidden;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.topBar {
+    background-color: #ffffff;
+    padding: 10px 3%;
+}
+
+.flexcontainer {
+    display: flex;
+    align-items: stretch;
+}
+
+.col1 {
+    flex: 40 1 auto;
+
+}
+
+.col2 {
+    flex: 10 1 auto;
+}
+
+.col3 {
+    flex: 10 1 auto;
+}
+
+.col4 {
+    flex: 10 1 auto;
+}
+
+.col5 {
+    flex: 10 1 auto;
+}
+
+.col6 {
+    flex: 10 1 auto;
+}
+
+.col7 {
+    flex: 10 1 auto;
+}
+
+.col8 {
+    flex: 10 1 auto;
+}
+
+.col9 {
+    flex: 5 1 auto;
+}
+
+.col10 {
+    flex: 5 1 auto;
+}
+
+.content {
+    margin: 2%;
+    width: 96%;
+    background-color: #ffffff;
+}
+
+.rowtop {
+    padding: 3% 3% 0 3%;
+    border-bottom: 1px solid #dddddd;
+}
+
+.wrap1 {
+    padding-bottom: 3%;
+    width: 15%;
+    float: left;
+}
+
+.checkout {
+    border-bottom: 3px solid #00ccdd;
+    padding-bottom: 4px;
+    font-size: 2vw;
+}
+
+.searchbox {
+    width: 65%;
+    float: left;
+    border: 1px solid #d0d0d0;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.searchbar {
+    display: inline-block;
+    width: 95%;
+    border: 0;
+}
+
+.searchicon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.button{
+    width: 20%;
+    padding-right: 5%;
+}
+
+.new{
+    color: #ffffff;
+    background-color: #00ccdd;
+    border: 0;
+    border-radius: 27px;
+    padding: 10px 30px;
+    float: right;
+}
+
+.row {
+    padding: 3%;
+    border-bottom: 1px solid #dddddd;
+}
+
+.column1{
+    width: 25%;
+    float: left;
+}
+
+.column2{
+    width: 25%;
+    float: left;
+    text-align: left;
+}
+
+.column3{
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.column4{
+    width: 25%;
+    padding-left: 10%;
+    float: left;
+    text-align: left;
+}
+
+.column4a{
+    width: 25%;
+    float: left;
+    padding-left: 5%;
+    text-align: center;
+}
+
+.show {
+    color: grey;
+    text-align: center;
+    padding: 1%;
+}
+
+.lastcont {
+    background-color: #F6F8F9;
+}
+
+.last {
+    text-align: center;
+    width: 6%;
+    padding: 10px 0;
+    background-color: #ffffff;
+    border-bottom-left-radius: 99vw;
+    border-bottom-right-radius: 99vw;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}

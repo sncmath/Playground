@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #d3d3d3;
+}
+
+div{
+    overflow: hidden;
+}
+
+.topflex{
+    display: flex;
+    background-color: #ffffff;
+    padding: 0 3%;
+    color: grey;
+}
+
+.col1{
+    flex: 2 1 auto;
+}
+
+.col2 {
+    flex: 2 1 auto;
+}
+
+.col3 {
+    flex: 2 1 auto;
+}
+
+.col4 {
+    flex: 10 1 auto;
+}
+
+.col5 {
+    flex: 1 1 auto;
+}
+
+.col6 {
+    flex: 1 1 auto;
+}
+
+.col7 {
+    flex: 1 1 auto;
+}
