@@ -16,25 +16,26 @@ div{
     display: flex;
     background-color: #ffffff;
     padding: 0 1%;
+    align-items: stretch;
 }
 
 .col1{
-    flex: 80 1 auto;
+    flex: 1 1 85%;
 }
 
 .col2{
-    flex: 8 1 auto;
+    flex: 1 1 5%;
     text-align: right;
 }
 
 .col3{
-    flex: 8 1 auto;
-    min-height: 100%;
-
+    flex: 1 1 5%;
+    margin: auto;
 }
 
 .col4{
-    flex: 4 1 auto;
+    flex: 1 1 5%;
+    margin: auto;
 }
 
 .content{
@@ -54,7 +55,6 @@ div{
 .left{
     width: 40%;
     float: left;
-    min-height: 100%;
 }
 
 .right{
@@ -105,6 +105,7 @@ div{
 .divthree{
     width: 10%;
     float: left;
+    text-align: right;
 }
 
 .rightbottom{

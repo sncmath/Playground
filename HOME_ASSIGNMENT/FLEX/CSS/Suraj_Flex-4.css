@@ -15,36 +15,43 @@ div{
 .topflex{
     display: flex;
     background-color: #ffffff;
-    padding: 0 3%;
+    padding: 0 2%;
     color: grey;
+    align-items: stretch;
 }
 
 .col1{
-    flex: 2 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col2 {
-    flex: 2 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col3 {
-    flex: 2 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col4 {
-    flex: 10 1 auto;
+    flex: 1 1 55%;
+    margin: auto;
 }
 
 .col5 {
-    flex: 1 1 auto;
+    flex: 1 1 5%;
 }
 
 .col6 {
-    flex: 1 1 auto;
+    flex: 1 1 7%;
+    margin: auto;
 }
 
 .col7 {
-    flex: 1 1 auto;
+    flex: 1 1 3%;
+    margin: auto;
 }
 
 .left{

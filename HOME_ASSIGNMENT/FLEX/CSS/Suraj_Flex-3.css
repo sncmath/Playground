@@ -31,44 +31,46 @@ img {
 }
 
 .col1 {
-    flex: 40 1 auto;
-
+    flex: 1 1 32%;
 }
 
 .col2 {
-    flex: 10 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col3 {
-    flex: 10 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col4 {
-    flex: 10 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col5 {
-    flex: 10 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col6 {
-    flex: 10 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col7 {
-    flex: 10 1 auto;
+    flex: 1 1 10%;
+    margin: auto;
 }
 
 .col8 {
-    flex: 10 1 auto;
+    flex: 1 1 5%;
 }
 
 .col9 {
-    flex: 5 1 auto;
-}
-
-.col10 {
-    flex: 5 1 auto;
+    flex: 1 1 3%;
+    margin: auto;
 }
 
 .content {
