@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d3d3d3;
+}
+
+div {
+    overflow: hidden;
+}
+
+.topcont {
+    display: flex;
+    background-color: #ffffff;
+    padding: 0 1%;
+    align-items: stretch;
+}
+
+.col1 {
+    flex: 1 1 85%;
+}
+
+.col2 {
+    flex: 1 1 5%;
+    text-align: right;
+}
+
+.col3 {
+    flex: 1 1 5%;
+    margin: auto;
+}
+
+.col4 {
+    flex: 1 1 5%;
+    margin: auto;
+}
+
+.content {
+    width: 96%;
+    margin: 2%;
+    background-color: #ffffff;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.text {
+    color: #808080;
+}
+
+.left {
+    width: 40%;
+    float: left;
+}
+
+.right {
+    width: 60%;
+    float: right;
+}
+
+.toprow {
+    border-bottom: 2px solid #d3d3d3;
+    padding: 3%;
+}
+
+.leftrow1 {
+    border-bottom: 2px solid #d3d3d3;
+    padding: 8% 6%;
+}
+
+.leftrow {
+    border-bottom: 2px solid #d3d3d3;
+    padding: 8% 6%;
+    background-color: #ecebeb;
+    border-right: 2px solid #d3d3d3;
+}
+
+.topright {
+    padding: 6%;
+}
+
+.rightrow {
+    margin: 3% 5%;
+}
+
+.threediv {
+    padding: 5% 0;
+}
+
+.divone {
+    width: 10%;
+    float: left;
+}
+
+.divtwo {
+    width: 90%;
+    float: left;
+}
+
+.searchbox {
+    width: 100%;
+    float: right;
+    border: 1px solid #d0d0d0;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.searchbar {
+    display: inline-block;
+    width: 95%;
+    border: 0;
+}
+
+.searchicon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.valign {
+    font-weight: bold;
+    line-height: 2;
+}
+
+.matches {
+    text-align: right;
+}
+
+.rightbottom {
+    margin: 15% 5% 5% 5%;
+}
+
+.decor {
+    color: #0cd;
+    font-size: small;
+}
+
+.invite {
+    color: #ffffff;
+    border: 0;
+    border-radius: 1px;
+    padding: 5px 15px;
+    background-color: #0cd;
+}
+
+.firstrow{
+    padding: 5%;
+    background-color: #d3d3d3;
+}
+
+.info{
+    float: right;
+}
+
+.secondrow{
+    background-color: rgb(214, 230, 252);
+    padding: 5%;
+}
+
+.sameleft{
+    background-color: #ffffff;
+    width: 65%;
+    float: left;
+    margin-bottom: 5%;
+    padding: 3%;
+}
+
+.sameright{
+    background-color: #ffffff;
+    width: 65%;
+    float: right;
+    padding: 3%;
+    text-align: right;
+}
+
+.writebox{
+    width: 90%;
+    border: 0;
+    display: inline-block;
+    padding: 10px 5px;
+}
+
+.sendbox{
+    width: 10%;
+    text-align: center;
+    float: right;
+    padding: 10px 5px;
+}
+
+.bottomrow{
+    border: 1px solid #d3d3d3;
+}
+
+.topdec{
+    border-top: 2px solid red;
+    padding: 20px;
+}
