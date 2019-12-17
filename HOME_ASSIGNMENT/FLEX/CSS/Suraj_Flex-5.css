@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #d3d3d3;
+}
+
+div{
+    overflow: hidden;
+}
+
+.topcont{
+    display: flex;
+    background-color: #ffffff;
+    padding: 0 1%;
+}
+
+.col1{
+    flex: 80 1 auto;
+}
+
+.col2{
+    flex: 8 1 auto;
+    text-align: right;
+}
+
+.col3{
+    flex: 8 1 auto;
+    min-height: 100%;
+
+}
+
+.col4{
+    flex: 4 1 auto;
+}
+
+.content{
+    width: 96%;
+    margin: 2%;
+    background-color: #ffffff;
+}
+
+.heading{
+    font-weight: bold;
+}
+
+.text{
+    color: #808080;
+}
+
+.left{
+    width: 40%;
+    float: left;
+    min-height: 100%;
+}
+
+.right{
+    width: 60%;
+    float: right;
+}
+
+.toprow{
+    border-bottom: 2px solid #d3d3d3;
+    padding: 3%;
+}
+
+.leftrow1{
+    border-bottom: 2px solid #d3d3d3;
+    padding: 8% 6%;
+}
+
+.leftrow{
+    border-bottom: 2px solid #d3d3d3;
+    padding: 8% 6%;
+    background-color: #ecebeb;
+    border-right: 2px solid #d3d3d3;
+}
+
+.topright{
+    padding: 6%;
+}
+
+.rightrow{
+    margin: 3% 10% ;
+}
+
+.threediv{
+    border-bottom: 1px solid #d3d3d3;
+    padding: 5% 0;
+}
+
+.divone{
+    width: 10%;
+    float: left;
+}
+
+.divtwo{
+    width: 80%;
+    float: left;
+}
+
+.divthree{
+    width: 10%;
+    float: left;
+}
+
+.rightbottom{
+    padding: 15% 5% 5% 10%;
+}
+
+.decor{
+    color: #0cd;
+}
