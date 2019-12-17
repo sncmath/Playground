@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d3d3d3;
+}
+
+div {
+    overflow: hidden;
+}
+
+.topcont {
+    display: flex;
+    background-color: #ffffff;
+    padding: 0 1%;
+    align-items: stretch;
+}
+
+.col1 {
+    flex: 1 1 85%;
+}
+
+.col2 {
+    flex: 1 1 5%;
+    text-align: right;
+}
+
+.col3 {
+    flex: 1 1 5%;
+    margin: auto;
+}
+
+.col4 {
+    flex: 1 1 5%;
+    margin: auto;
+}
+
+.content {
+    width: 96%;
+    margin: 2%;
+    background-color: #ffffff;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.text {
+    color: #808080;
+}
+
+.left {
+    width: 40%;
+    float: left;
+}
+
+.right {
+    width: 60%;
+    float: right;
+}
+
+.toprow {
+    border-bottom: 2px solid #d3d3d3;
+    padding: 3%;
+}
+
+.leftrow1 {
+    border-bottom: 2px solid #d3d3d3;
+    padding: 8% 6%;
+}
+
+.leftrow {
+    border-bottom: 2px solid #d3d3d3;
+    padding: 8% 6%;
+    background-color: #ecebeb;
+    border-right: 2px solid #d3d3d3;
+}
+
+.topright {
+    padding: 6%;
+}
+
+.rightrow {
+    margin: 3% 5%;
+}
+
+.threediv {
+    padding: 5% 0;
+}
+
+.divone {
+    width: 10%;
+    float: left;
+}
+
+.divtwo {
+    width: 70%;
+    float: left;
+}
+
+.searchbox {
+    width: 100%;
+    float: right;
+    border: 1px solid #d0d0d0;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.searchbar {
+    display: inline-block;
+    width: 95%;
+    border: 0;
+}
+
+.searchicon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.divthree {
+    width: 20%;
+    float: left;
+    text-align: right;
+}
+
+.valign{
+    font-weight: bold;
+    line-height: 2;
+}
+
+.matches{
+    text-align: right;
+}
+
+.rightbottom {
+    padding: 15% 5% 5% 5%;
+}
+
+.decor {
+    color: #0cd;
+    font-size: small;
+}
+
+.invite{
+    color: #ffffff;
+    border: 0;
+    border-radius: 1px;
+    padding: 5px 15px;
+    background-color: #0cd;
+}
