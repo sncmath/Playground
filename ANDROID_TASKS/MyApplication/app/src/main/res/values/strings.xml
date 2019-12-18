@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="email">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="email_content">Email or Phone Number</string>
+    <string name="password_content">Password</string>
+
+</resources>
+
