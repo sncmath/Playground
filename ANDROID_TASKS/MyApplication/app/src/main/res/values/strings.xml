@@ -1,12 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="login_btn">LOGIN</string>
-    <string name="email">Email or Username</string>
+    <string name="email">Email or Phone Number</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
-    <string name="forgot">Forgot Password</string>
-    <string name="email_content">Email or Phone Number</string>
-    <string name="password_content">Password</string>
-
+    <string name="forgot">Forgot Password?</string>
+    <string name="linktext">The link to reset your password will be sent to your registered email</string>
+    <string name="Email">Email</string>
+    <string name="continu">CONTINUE</string>
+    <string name="FORGOT">FORGOT PASSWORD</string>
+    <string name="text1">The link has been sent to your email.</string>
+    <string name="text2">The generated link will be active for 24 hours.</string>
 </resources>
 
