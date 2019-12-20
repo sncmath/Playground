@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="#808080"
     android:gravity="center"
-    android:orientation="vertical"
     tools:context=".ForgotDialogueBox">
 
     <LinearLayout

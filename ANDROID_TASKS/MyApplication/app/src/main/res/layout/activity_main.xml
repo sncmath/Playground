@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     android:background="#808080"
     android:gravity="center"
-    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -55,7 +54,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:background="@drawable/border"
-                android:drawableEnd="@android:drawable/ic_menu_view"
+                android:drawableRight="@android:drawable/ic_menu_view"
                 android:ems="10"
                 android:hint="@string/password"
                 android:importantForAutofill="no"

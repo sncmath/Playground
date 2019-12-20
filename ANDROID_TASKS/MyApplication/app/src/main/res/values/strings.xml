@@ -11,5 +11,17 @@
     <string name="FORGOT">FORGOT PASSWORD</string>
     <string name="text1">The link has been sent to your email.</string>
     <string name="text2">The generated link will be active for 24 hours.</string>
+    <string name="menu">Burger Menu</string>
+    <string name="MyRequest">My Requests</string>
+    <string name="NewRequest">NEW REQUEST</string>
+    <string name="search">Search</string>
+    <string name="filtertext">FILTER\nShowing approved requests.</string>
+    <string name="purchase">PUR &#8211; 2019 &#8211; 056</string>
+    <string name="submitted">Submitted on</string>
+    <string name="date">06 Jul 2019</string>
+    <string name="approved">Approved</string>
+    <string name="filter">Filter</string>
+    <string name="noti">Notification icon</string>
+    <string name="showmore">SHOW MORE</string>
 </resources>
 

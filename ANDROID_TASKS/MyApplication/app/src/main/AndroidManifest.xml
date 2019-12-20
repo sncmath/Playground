@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ForgotDialogueBox"></activity>
+        <activity android:name=".MyRequestSame"></activity>
+        <activity android:name=".ForgotDialogueBox" />
         <activity android:name=".forgotpassword" />
         <activity android:name=".MainActivity">
             <intent-filter>
