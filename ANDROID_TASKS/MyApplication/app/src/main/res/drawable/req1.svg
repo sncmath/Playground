@@ -1,0 +1,25 @@
+<svg width="496" height="54" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <ellipse ry="25" rx="25" cy="27" cx="27" stroke-width="1.5" stroke="#999999" fill="#32bdd2"/>
+        <ellipse ry="25" rx="25" cy="27" cx="114" stroke-width="1.5" stroke="#999999" fill="#f7f7f7"/>
+        <ellipse ry="25" rx="25" cy="27" cx="203" stroke-width="1.5" stroke="#999999" fill="#f7f7f7"/>
+        <ellipse ry="25" rx="25" cy="27" cx="293" stroke-width="1.5" stroke="#999999" fill="#f7f7f7"/>
+        <ellipse ry="25" rx="25" cy="27" cx="381" stroke-width="1.5" stroke="#999999" fill="#f7f7f7"/>
+        <ellipse ry="25" rx="25" cy="27" cx="470" stroke-width="1.5" stroke="#999999" fill="#f7f7f7"/>
+
+        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="35" x="20" stroke-width="0" stroke="#999999" fill="#ffffff">1</text>
+        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="35" x="107" stroke-width="0" stroke="#999999" fill="#999999">2</text>
+        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="35" x="196" stroke-width="0" stroke="#999999" fill="#999999">3</text>
+        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="35" x="286" stroke-width="0" stroke="#999999" fill="#999999">4</text>
+        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="35" x="374" stroke-width="0" stroke="#999999" fill="#999999">5</text>
+        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="35" x="463" stroke-width="0" stroke="#999999" fill="#999999">6</text>
+
+
+        <line stroke-dasharray="5,5" stroke="#999999" y2="28" x2="87" y1="28" x1="52" stroke-width="1.5" fill="#f7f7f7"/>
+        <line stroke-dasharray="5,5" stroke="#999999" y2="28" x2="177" y1="28" x1="142" stroke-width="1.5" fill="#f7f7f7"/>
+        <line stroke-dasharray="5,5" stroke="#999999" y2="28" x2="266" y1="28" x1="231" stroke-width="" fill="#f7f7f7"/>
+        <line stroke-dasharray="5,5" stroke="#999999" y2="28" x2="355" y1="28" x1="320" stroke-width="1.5" fill="#f7f7f7"/>
+        <line stroke-dasharray="5,5" stroke="#999999" y2="28" x2="443" y1="28" x1="409" stroke-width="1.5" fill="#f7f7f7"/>
+
+    </g>
+</svg>

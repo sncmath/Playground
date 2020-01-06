@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #F6F8F9;
+}
+
+div{
+    overflow: hidden;
+}
+
+.cont1{
+    background-color: #ffffff;
+}
+
+.col1{
+    width: 90%;
+    float: left;
+}
+
+.col2{
+    width: 3%;
+    float: left;
+}
+
+.col3{
+    width: 5%;
+    float: left;
+}
+
+.name{
+    letter-spacing: 0.9px;
+    color: #595959;
+}
+
+.col4{
+    width: 2%;
+    float: left;
+}
