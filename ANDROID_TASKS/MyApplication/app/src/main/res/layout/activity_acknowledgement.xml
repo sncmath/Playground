@@ -29,6 +29,7 @@
                 android:layout_marginBottom="10dp"
                 android:contentDescription="@string/forgot"
                 android:src="@drawable/menu" />
+
         </RelativeLayout>
 
         <RelativeLayout
@@ -220,19 +221,6 @@
                 android:layout_marginStart="16dp" />
 
             <TextView
-                android:id="@+id/textView28"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignBottom="@+id/T1"
-                android:layout_marginLeft="20dp"
-                android:layout_marginBottom="-36dp"
-                android:text="@string/registred"
-                android:textColor="@color/attachment"
-                android:textSize="14sp"
-                android:textStyle="bold"
-                android:layout_marginStart="20dp" />
-
-            <TextView
                 android:id="@+id/T2"
                 android:layout_width="363dp"
                 android:layout_height="171dp"
@@ -245,6 +233,19 @@
                 android:text="@string/content"
                 android:textColor="@color/loren_text_color"
                 android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/T1"
+                android:layout_marginStart="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="25dp"
+                android:text="@string/registred"
+                android:textColor="@color/attachment"
+                android:textSize="14sp"
+                android:textStyle="bold" />
 
 
         </RelativeLayout>
