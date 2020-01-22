@@ -242,7 +242,7 @@
                 android:layout_marginStart="15dp"
                 android:layout_marginLeft="15dp"
                 android:layout_marginTop="25dp"
-                android:text="@string/registred"
+                android:text="@string/registerd"
                 android:textColor="@color/attachment"
                 android:textSize="14sp"
                 android:textStyle="bold" />

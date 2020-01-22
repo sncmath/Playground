@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".invite"></activity>
+        <activity android:name=".my_request_diff"></activity>
+        <activity android:name=".approvals" />
+        <activity android:name=".invite" />
         <activity android:name=".attachment_error" />
         <activity android:name=".attachment" />
         <activity android:name=".acknowledgement" />

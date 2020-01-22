@@ -45,12 +45,12 @@
     <string name="num_one">01</string>
     <string name="date">10 Jul 2019</string>
     <string name="rs">45,000</string>
-    <string name="ibm">IBM ThinkServer TS150 Tower Server With Max. Processor 1 x Intel Xeon E3 (Quad Core) E3-1225 v5"(3.3 GHz /Cache 8 MB)... </string>
+    <string name="ibm">IBM ThinkServer TS150 Tower Server With Max. Processor 1 x Intel Xeon E3 (Quad Core) E3 1225 v5"(3.3 GHz /Cache 8 MB). </string>
     <string name="read">READ MORE</string>
     <string name="attachment">ATTACHMENTS</string>
     <string name="attach_files">ATTACH FILES</string>
     <string name="invite_people">INVITE PEOPLE</string>
-    <string name="add_peopel">ADD PEOPLE</string>
+    <string name="add_people">ADD PEOPLE</string>
     <string name="luke">Luke Ray</string>
     <string name="amet">Lorem ipsum doler sit amet.</string>
     <string name="daisy">Daisy Lake</string>
@@ -58,7 +58,7 @@
     <string name="approval">APPROVAL(S)</string>
     <string name="add_approval">ADD APPROVER</string>
     <string name="ack">ACKNOWLEDGEMENT</string>
-    <string name="registred">Your request has been registered.</string>
+    <string name="registered">Your request has been registered.</string>
     <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis, tortor sit amet tempor vehicula, tortor ipsum faucibus nunc, id aliquam lacus odio nec magna. Cras a ipsum placerat, efficitur nibh sed, iaculis elit. Mauris semper tempor facilisis.</string>
     <string name="abc">abc0037429023.doc</string>
     <string name="kb">976KB    </string>
@@ -66,14 +66,10 @@
     <string name="write">write the description…</string>
     <string name="error_msg">This field is required.</string>
     <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
     <string name="avatar">avatar</string>
     <string name="delete">delete</string>
-    <string name="delete">delete</string>
-    <string name="delete">delete</string>
+    <string name="waiting">Waiting</string>
+    <string name="draft">Draft</string>
+    <string name="rejected">Rejected</string>
 </resources>
 
