@@ -117,3 +117,7 @@ body {
     background-color: #32BDD2;
     margin-top: 14%;
 }
+
+.clear{
+    clear: both;
+}

@@ -1,0 +1,243 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.parent{
+    background-color: #F6F8F9;
+}
+
+.header{
+    padding: 2% 2.4%;;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 4px #00000029;
+    display: flex;
+    align-items: center;
+}
+
+.menuContainer{
+    width: 86%;
+}
+
+.menuImage{
+    width: 2.24vw;
+    vertical-align: middle;
+}
+
+.details{
+    width: 14%;
+    display: flex;
+    align-items: center;
+}
+
+.profilepic{
+    width: 3.22vw;
+    vertical-align: middle;
+    margin-right: 6px;
+}
+
+.profileName{
+    font-family: 'Roboto';
+    font-size: 1.17vw;
+    font-weight: 600;
+    letter-spacing: 0.9px;
+    color: #595959;
+    margin-right: 6px;
+}
+
+.downIcon{
+    width: 1.36vw;
+    vertical-align: middle;
+}
+
+.container{
+    margin: 2.4%;
+    box-shadow: 0px 0px 4px #00000029;
+    display: flex;
+}
+
+.leftContainer {
+    width: 7.5%;
+    padding-top: 8.6vh;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reqContainer{
+    text-align: center;
+    margin-bottom: 5.3vh;
+}
+
+.requisition{
+    writing-mode: vertical-rl;
+    transform: rotate(-180deg);
+    font-family: 'Roboto';
+    font-size: 1.36vw;
+    font-weight: 700;
+    letter-spacing: 2.8px;
+    color: #000000;
+}
+
+.navBar{
+    width: 7vw;
+}
+
+.rightContainer{
+    width: 92.5%;
+    padding: 8.6vh 4.1% 3.3% 5.1%;
+}
+
+.listContainer{
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 0px 4px #00000029;
+}
+
+.greyBar{
+    padding: 3.2% 4.6%;
+    background-color: #F0F0F0;
+}
+
+.boldText{
+    font-family: 'Roboto';
+    font-size: 1.36vw;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    color: #505050;
+}
+
+.lightText{
+    font-family: 'Roboto';
+    font-size: 1.17vw;
+    letter-spacing: 0.6px;
+    color: #747474;
+}
+
+.greyLeftBox{
+    float: left;
+    width: 81%;
+}
+
+.greyRightBox{
+    float: right;
+    width: 19%;
+}
+
+.addIcon{
+    width: 3.6vw;
+    vertical-align: middle;
+    margin-left: 0.2vw;
+}
+
+.card{
+    padding: 6% 4.6%;
+    display: flex;
+    align-items: center;
+}
+
+.space{
+    padding-bottom: 2.8%;
+}
+
+.textBox{
+    width: 35%;
+}
+
+.moreText{
+    font-family: 'Roboto';
+    font-size: 0.97vw;
+    font-weight: 700;
+    letter-spacing: 0.65px;
+    color: #747474;
+}
+
+.number{
+    width: 15%;
+    text-align: center;
+}
+
+.date{
+    width: 20%;
+    text-align: center;
+}
+
+.value{
+    width: 20%;
+    text-align: center;
+}
+
+.imageBox{
+    width: 10%;
+}
+
+.burgerMenuIcon{
+    width: 3.6vw;
+    float: right;
+}
+
+.bottomBorder{
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.saveBar{
+    padding-top: 14%;
+    display: flex;
+    align-items: center;
+}
+
+.saveBox{
+    width: 78%;
+}
+
+.save{
+    font-family: 'Roboto';
+    font-size: 1.17vw;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    color: #595959;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #595959;
+}
+
+.backBox{
+    width: 10%;
+}
+
+.back{
+    font-family: 'Roboto';
+    font-size: 1.17vw;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    color: #32BDD2;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #32BDD2;
+}
+
+.btnBox {
+    width: 12%;
+}
+
+.button{
+    background-color: #32BDD2;
+    border-radius: 3.8vw;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-size: 1.17vw;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 1.2px;
+    color: #FFFFFF;
+    border: 0;
+    padding: 8px 18px;
+}
+
+.nextIcon{
+    width: 1.46vw;
+    vertical-align: middle;
+}
+
+.clear{
+clear: both;
+}

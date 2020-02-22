@@ -1,0 +1,35 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.popup {
+    width: 20%;
+    border: 1px solid #E0E0E0;
+    background-color: #E0E0E0;
+}
+
+.middle_container {
+    background-color: #fff;
+    margin: 6.37% 6.37% 15.68% 6.37%;
+}
+
+.edit {
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 1.17vw;
+    letter-spacing: 0.6px;
+    color: #707070;
+    border-bottom: 1px solid #E0E0E0;
+    padding: 13.40%;
+}
+
+.delete {
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 1.17vw;
+    letter-spacing: 0.6px;
+    color: #707070;
+    padding: 13.40%;
+}
