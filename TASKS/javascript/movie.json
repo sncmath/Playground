@@ -1,0 +1,395 @@
+{
+    "results": [
+        {
+            "popularity": 69.909,
+            "vote_count": 53,
+            "video": false,
+            "poster_path": "\/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+            "id": 539537,
+            "adult": false,
+            "backdrop_path": "\/dzfiE2VHY362dGI62XfZ2iI87CT.jpg",
+            "original_language": "en",
+            "original_title": "Fantasy Island",
+            "genre_ids": [
+                14,
+                27,
+                878
+            ],
+            "title": "Fantasy Island",
+            "vote_average": 4.2,
+            "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+            "release_date": "2020-02-27"
+        },
+        {
+            "popularity": 55.458,
+            "vote_count": 6,
+            "video": false,
+            "poster_path": "\/sm8iVzA7kRp0d4BSIsgXjsSBMKV.jpg",
+            "id": 556678,
+            "adult": false,
+            "backdrop_path": "\/5GbkL9DDRzq3A21nR7Gkv6cFGjq.jpg",
+            "original_language": "en",
+            "original_title": "Emma",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "title": "Emma",
+            "vote_average": 7.8,
+            "overview": "In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.",
+            "release_date": "2020-02-21"
+        },
+        {
+            "popularity": 55.157,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
+            "id": 481848,
+            "adult": false,
+            "backdrop_path": "\/zZYuyn4DVnjxeDyhjyS0LUjcpyT.jpg",
+            "original_language": "en",
+            "original_title": "The Call of the Wild",
+            "genre_ids": [
+                12,
+                18,
+                10751
+            ],
+            "title": "The Call of the Wild",
+            "vote_average": 0,
+            "overview": "A sled dog struggles for survival in the wilds of the Yukon.",
+            "release_date": "2020-02-21"
+        },
+        {
+            "popularity": 24.371,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/sEpmKEptwJ7nBzDAaL9xSyV5axS.jpg",
+            "id": 555974,
+            "adult": false,
+            "backdrop_path": "\/tE7SjDwITs333u4fBICqEmCRfgk.jpg",
+            "original_language": "en",
+            "original_title": "Brahms: The Boy II",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "title": "Brahms: The Boy II",
+            "vote_average": 0,
+            "overview": "After a family moves into the Heelshire Mansion, their young son soon makes friends with a life-like doll called Brahms.",
+            "release_date": "2020-02-20"
+        },
+        {
+            "popularity": 31.952,
+            "vote_count": 1,
+            "video": false,
+            "poster_path": "\/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+            "id": 338762,
+            "adult": false,
+            "backdrop_path": "\/ocUrMYbdjknu2TwzMHKT9PBBQRw.jpg",
+            "original_language": "en",
+            "original_title": "Bloodshot",
+            "genre_ids": [
+                28,
+                18,
+                14,
+                878
+            ],
+            "title": "Bloodshot",
+            "vote_average": 8,
+            "overview": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine - Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+            "release_date": "2020-03-13"
+        },
+        {
+            "popularity": 21.529,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/3VqDLgKLfNYSQYEGC5sjGhcPhn7.jpg",
+            "id": 508439,
+            "adult": false,
+            "backdrop_path": "\/bcT8CaBIj086WVD7K529h78eujb.jpg",
+            "original_language": "en",
+            "original_title": "Onward",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                14,
+                10751
+            ],
+            "title": "Onward",
+            "vote_average": 0,
+            "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+            "release_date": "2020-03-06"
+        },
+        {
+            "popularity": 19.234,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg",
+            "id": 570670,
+            "adult": false,
+            "backdrop_path": "\/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+            "original_language": "en",
+            "original_title": "The Invisible Man",
+            "genre_ids": [
+                27,
+                878,
+                53
+            ],
+            "title": "The Invisible Man",
+            "vote_average": 0,
+            "overview": "The film follows Cecilia, who receives the news of her abusive ex-boyfriend’s suicide. She begins to re-build her life for the better. However, her sense of reality is put into question when she begins to suspect her deceased lover is not actually dead.",
+            "release_date": "2020-02-28"
+        },
+        {
+            "popularity": 13.475,
+            "vote_count": 131,
+            "video": false,
+            "poster_path": "\/jNvlqNDnXH8aqBeiBxNNP0wWWO3.jpg",
+            "id": 522369,
+            "adult": false,
+            "backdrop_path": "\/yjCW0qLgmyBUuv3KwRkuwy6yfmv.jpg",
+            "original_language": "en",
+            "original_title": "Sorry We Missed You",
+            "genre_ids": [
+                18
+            ],
+            "title": "Sorry We Missed You",
+            "vote_average": 7.6,
+            "overview": "From the Director of I Daniel Blake (Ken Loach) comes another hard hitting dose of reality. Ricky and his family have been fighting an uphill struggle against debt since the 2008 financial crash. An opportunity to wrestle back some independence appears with a shiny new van and the chance to run a franchise as a self-employed delivery driver. It's hard work, and his wife's job as a carer is no easier. The family unit is strong but when both are pulled in different directions everything comes to breaking point.",
+            "release_date": "2020-03-06"
+        },
+        {
+            "popularity": 9.929,
+            "vote_count": 13,
+            "video": false,
+            "poster_path": "\/rcPgoNrpbP7oK3kKit4TC7nRlMH.jpg",
+            "id": 429416,
+            "adult": false,
+            "backdrop_path": "\/7B7s3wrr7fjoGOOURIfGmRH8F07.jpg",
+            "original_language": "en",
+            "original_title": "The Jesus Rolls",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "title": "The Jesus Rolls",
+            "vote_average": 5.2,
+            "overview": "Hours after his release from prison, Jesus Quintana pairs up with fellow misfits Petey and Marie for a freewheeling joyride of petty crime and romance.",
+            "release_date": "2020-03-06"
+        },
+        {
+            "popularity": 15.898,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/11t2dl3gN3IpGrIWssiEgM4RRFM.jpg",
+            "id": 566927,
+            "adult": false,
+            "backdrop_path": "\/2RksuXwfYxIcNJTlvfCtuu7cu5q.jpg",
+            "original_language": "en",
+            "original_title": "Impractical Jokers: The Movie",
+            "genre_ids": [
+                35
+            ],
+            "title": "Impractical Jokers: The Movie",
+            "vote_average": 0,
+            "overview": "The story of a humiliating high school mishap from 1992 that sends the Impractical Jokers on the road competing in hidden-camera challenges for the chance to turn back the clock and redeem three of the four Jokers.",
+            "release_date": "2020-02-21"
+        },
+        {
+            "popularity": 14.572,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/xQdN7MpyqDHLa1Qf6CC7aZnMfBR.jpg",
+            "id": 654879,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Deported",
+            "genre_ids": [],
+            "title": "Deported",
+            "vote_average": 0,
+            "overview": "When his new girlfriend gets deported on a technicality, Ross hires a fake husband to get her back into the country because he's not ready to commit to marriage.",
+            "release_date": "2020-03-01"
+        },
+        {
+            "popularity": 16.008,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/2M7XCs1EcMZQNfVF9iLXMlWuvfH.jpg",
+            "id": 526007,
+            "adult": false,
+            "backdrop_path": "\/49Qeu6wfw8lKgMs0vpOQEUZhSAg.jpg",
+            "original_language": "en",
+            "original_title": "The Night Clerk",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "title": "The Night Clerk",
+            "vote_average": 0,
+            "overview": "Hotel night clerk Bart Bromley, a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.",
+            "release_date": "2020-02-21"
+        },
+        {
+            "popularity": 21.87,
+            "vote_count": 7,
+            "video": false,
+            "poster_path": "\/gKxbKcJCPp6IH5auhP1tFbMXsJE.jpg",
+            "id": 610892,
+            "adult": false,
+            "backdrop_path": "\/4ey5eIDa3Wj7WZ9JnuOvj4B46Pc.jpg",
+            "original_language": "ja",
+            "original_title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+            "genre_ids": [
+                16,
+                18,
+                14
+            ],
+            "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+            "vote_average": 8.4,
+            "overview": "Adaptation of \"Violet Evergarden gaiden\", a spin-off of the novel \"Violet Evergarden\" which was previously adapted as an animated television series by the same team.",
+            "release_date": "2020-02-17"
+        },
+        {
+            "popularity": 13.569,
+            "id": 574489,
+            "video": false,
+            "vote_count": 0,
+            "vote_average": 0,
+            "title": "Goldie",
+            "release_date": "2020-02-21",
+            "original_language": "en",
+            "original_title": "Goldie",
+            "genre_ids": [
+                18
+            ],
+            "backdrop_path": "\/A5NyaAC4zohcbgQPyRhZJAcvwH1.jpg",
+            "adult": false,
+            "overview": "Goldie, a precocious teenager in a family shelter, wages war against the system to keep her sisters together while she pursues her dreams of being a dancer. This is a story about displaced youth, ambition, and maintaining your spirit in the face of insurmountable obstacles.",
+            "poster_path": "\/6yAgugLNv3ssZxWxzNxHTVDFc7d.jpg"
+        },
+        {
+            "popularity": 11.269,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/sN8sfiGZV6PDP7kafMqrSuKUtOM.jpg",
+            "id": 457335,
+            "adult": false,
+            "backdrop_path": "\/cbzoOuOZ0BL0EulvH64t78h6NtY.jpg",
+            "original_language": "en",
+            "original_title": "Guns Akimbo",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "title": "Guns Akimbo",
+            "vote_average": 0,
+            "overview": "An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.",
+            "release_date": "2020-02-28"
+        },
+        {
+            "popularity": 11.284,
+            "vote_count": 1,
+            "video": false,
+            "poster_path": "\/aSAhc0cUxMYyfwtgvC5k5ZQg0zW.jpg",
+            "id": 590575,
+            "adult": false,
+            "backdrop_path": "\/5GVUS4NcSawRsunfVwFSImlL3tY.jpg",
+            "original_language": "en",
+            "original_title": "Beneath Us",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "title": "Beneath Us",
+            "vote_average": 9,
+            "overview": "The American Dream becomes a nightmare for a group of undocumented day laborers hired by a wealthy couple. What they expect to be their biggest payday turns into a terrifying fight for survival.",
+            "release_date": "2020-03-06"
+        },
+        {
+            "popularity": 14.606,
+            "vote_count": 1,
+            "video": false,
+            "poster_path": "\/4J6RxvVCdgu7xRflDNsD492nsfi.jpg",
+            "id": 565379,
+            "adult": false,
+            "backdrop_path": "\/gz8eQ8ysCcHIImHRvLr1mgx6Eot.jpg",
+            "original_language": "en",
+            "original_title": "Premature",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "title": "Premature",
+            "vote_average": 2,
+            "overview": "The summer before she leaves for college, Ayanna meets handsome and mysterious outsider Isaiah; her entire world is turned upside down as she navigates the demanding terrain of young love against a changing Harlem landscape.",
+            "release_date": "2020-02-21"
+        },
+        {
+            "popularity": 11.041,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/smgNHgyIyALSgUcAhOFTcG9bBSe.jpg",
+            "id": 340971,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Viena and the Fantomes",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "title": "Viena and the Fantomes",
+            "vote_average": 0,
+            "overview": "A roadie travels across North America with a punk band in the 1980s.",
+            "release_date": "2020-03-10"
+        },
+        {
+            "popularity": 13.835,
+            "vote_count": 1,
+            "video": false,
+            "poster_path": "\/xrlYLRoEtJb8FGKaoePPQHrWIHt.jpg",
+            "id": 557940,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Las Pildoras de mi Novio",
+            "genre_ids": [],
+            "title": "My Boyfriend's Meds",
+            "vote_average": 4.5,
+            "overview": "A Woman's island getaway with her boyfriend is thrown for a loop when he forgets to take his prescription medications along.",
+            "release_date": "2020-02-21"
+        },
+        {
+            "popularity": 10.021,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "\/uD3xFofVuNbNkPWpHEHrFiAFFmU.jpg",
+            "id": 399363,
+            "adult": false,
+            "backdrop_path": "\/3FwaJBwwytSjMa4q9VoaRVgix6f.jpg",
+            "original_language": "en",
+            "original_title": "Wendy",
+            "genre_ids": [
+                18,
+                14
+            ],
+            "title": "Wendy",
+            "vote_average": 0,
+            "overview": "A re-imagining of \"Peter Pan\" from the point of view of Wendy Darling, who finds herself lost on a mysterious island where aging and time have come unglued. She must fight to save her family, her freedom and the joyous spirit of youth.",
+            "release_date": "2020-02-28"
+        }
+    ],
+    "page": 1,
+    "total_results": 51,
+    "dates": {
+        "maximum": "2020-03-13",
+        "minimum": "2020-02-17"
+    },
+    "total_pages": 3
+}
