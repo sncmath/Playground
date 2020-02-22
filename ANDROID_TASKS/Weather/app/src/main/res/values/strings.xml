@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WEATHER</string>
+    <string name="date">DATE</string>
+    <string name="weatherstate">WEATHERSTATE</string>
+    <string name="speed">SPEED</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="city">CITY</string>
+    <string name="detaildate">DETAILDATE</string>
+    <string name="detailstate">DETAILSTATE</string>
+    <string name="detailtemp">DETAILTEMP</string>
+    <string name="mintemp">MINTEMP</string>
+    <string name="maxtemp">MAXTEMP</string>
+    <string name="detailspeed">DETAILSPEED</string>
+    <string name="direction">DIRECTION</string>
+    <string name="detailhumidity">DETAILHUMIDITY</string>
+    <string name="predictability">PREDICTABILITY</string>
+    <string name="zone">ZONE</string>
+    <string name="bangalore">CITY: BANGALORE</string>
+    <string name="timezone">TIME ZONE: Asia/Kolkata</string>
+</resources>

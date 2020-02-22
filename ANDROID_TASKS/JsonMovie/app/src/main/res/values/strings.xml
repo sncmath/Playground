@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SHADE MOVIES</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="overview">Overview</string>
+</resources>

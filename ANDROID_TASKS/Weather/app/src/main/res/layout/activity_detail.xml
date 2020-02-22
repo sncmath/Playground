@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/fade3">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".DetailActivity">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bangalore"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="24sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/detaildate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/detaildate"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="20sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/city"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/detailstate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/detailstate"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="20sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detaildate"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/temp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/detailtemp"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="20sp"
+            android:layout_marginTop="60dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detailstate"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/mintemp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mintemp"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="16sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/temp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/maxtemp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/maxtemp"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="16sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/mintemp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/detailspeed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/detailspeed"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="20sp"
+            android:layout_marginTop="60dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/maxtemp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/direction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/direction"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="16sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detailspeed"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/detailhumidity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/detailhumidity"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="20sp"
+            android:layout_marginTop="60dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/direction"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/predict"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/predictability"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="20sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/detailhumidity"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/zone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/timezone"
+            android:textColor="@color/font"
+            android:fontFamily="@font/marvel_bold_italic"
+            android:textSize="16sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginStart="60dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/predict"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
